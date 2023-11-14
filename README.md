@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Flutter 3.3**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ElHbrouk?tab=repositories](https://github.com/ElHbrouk?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repos](https://github.com/ElHbrouk?tab=repositories)
 
 - 💬 Ask me about **anything regarding Flutter.**
 
-- 📫 How to reach me **omar.elhbrouk2@gmail.com**
+- 📫 How to reach me [Mail](omar.elhbrouk2@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
