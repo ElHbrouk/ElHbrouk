@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar El-Hbrouk</h1>
 <h3 align="center">An up and coming Flutter developer.</h3>
 
-![Card Name](https://cardivo.vercel.app/api?name=Omar%20ElHbrouk&description=Hi,%20I%27m%20a%20Software%20Enginner%20and%20Flutter%20Developer%20and%20I%27m%2023%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/102668644?v=4backgroundColor=%23ffffff&pattern=topography&colorPattern=%23eaeaea)
+![card name](https://cardivo.vercel.app/api?name=Omar%20ElHbrouk&description=Hi,%20I%27m%20a%20Flutter%20developer%20and%20I%27m%2023%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/102668644?v=4&backgroundColor=%23ecf0f1&pattern=topography&colorPattern=%23c5c5c5)
 
 - 🌱 I’m currently learning **Flutter 3.13**
 
