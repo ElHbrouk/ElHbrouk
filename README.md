@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar El-Hbrouk</h1>
 <h3 align="center">An up and coming Flutter developer.</h3>
 
-- 🌱 I’m currently learning **Flutter 3.3**
+![Card Name](https://cardivo.vercel.app/api?name=Omar%20ElHbrouk&description=Hi,%20I%27m%20a%20Software%20Enginner%20and%20Flutter%20Developer%20and%20I%27m%2023%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/102668644?v=4backgroundColor=%23ffffff&pattern=topography&colorPattern=%23eaeaea)
+
+- 🌱 I’m currently learning **Flutter 3.13**
 
 - 👨‍💻 All of my projects are available at [Repos](https://github.com/ElHbrouk?tab=repositories)
 
