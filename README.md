@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elhbrouk&label=Profile%20views&color=0e75b6&style=flat" alt="elhbrouk" /> </p>
 
-I'm a Junior Flutter Developer with **1+ years of professional experience** at [**WijhaTech Saudi Company**](https://wijha.sa). I specialize in building, deploying, and maintaining high-performance, cross-platform mobile applications.
+I'm a Junior Flutter Developer with **1+ years of professional experience** at [**WijhaTech Saudi Company**](https://dit.sa/). I specialize in building, deploying, and maintaining high-performance, cross-platform mobile applications.
 
 - 🚀 **Built 2 major applications (ARK & Wsataa) solo** from concept to production.
 - 🔧 **Maintained, updated, and published 7+ additional apps** to the Play Store & App Store.
